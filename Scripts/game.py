@@ -1,7 +1,7 @@
 import pygame
 from pygame.locals import *
 from numpy import random
-from Objects.spaceship import *
+from Objects.Spaceship import *
 #from Scripts.Objects.spaceship import SpaceShip
 from Utils.Direction import *
 #from Scripts.Utils.Direction import Direction
